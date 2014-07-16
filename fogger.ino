@@ -1,6 +1,9 @@
+#define SMTP_SERVER "mail.myserver.com"
+#define SMTP_USER_BASE64 "asdofnoa=="
+#define SMTP_PASS_BASE64 "asdfsadf"
 
-#define SMTP_FROM_EMAIL "donotreply@scseaside.com"
-#define SMTP_TO_EMAIL "brianc@scseaside.com"
+#define SMTP_FROM_EMAIL "donotreply@myserver.com"
+#define SMTP_TO_EMAIL "brianc@myserver.com"
 #define SMTP_SUBJECT " Fog Fluid Warning!"
 #define SMTP_BODY_LOW "low"
 #define SMTP_BODY_EMPTY "empty"
