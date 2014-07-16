@@ -1,6 +1,3 @@
-#define SMTP_SERVER "mail.scseaside.com"
-#define SMTP_USER_BASE64 "ZG9ub3RyZXBseQ=="
-#define SMTP_PASS_BASE64 "c2NzY21pdGVs"
 
 #define SMTP_FROM_EMAIL "donotreply@scseaside.com"
 #define SMTP_TO_EMAIL "brianc@scseaside.com"
